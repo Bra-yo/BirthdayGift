@@ -1,4 +1,4 @@
-# Clarah Birthday Gift ❤️
+# Birthday Gift
 
 A cinematic, interactive birthday experience made especially for Clarah.
 
