@@ -1,0 +1,18 @@
+{
+  "name": "happy-birthday-tree",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A cinematic interactive birthday gift made especially for Clarah: Cupid, a blooming heart tree, a personal letter, and little memories.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "gsap": "^3.13.0"
+  },
+  "devDependencies": {
+    "vite": "^7.0.0"
+  }
+}
